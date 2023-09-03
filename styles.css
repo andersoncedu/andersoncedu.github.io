@@ -1,4 +1,10 @@
-.image {
-	width: 50%;
-	max-width: 300px;
+html{
+	background: darkgreen;
+	color: white;
+}
+ul {
+	color:red;
+}
+img {
+	width:50%;
 }
